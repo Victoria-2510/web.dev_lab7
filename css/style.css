@@ -1,4 +1,26 @@
-td, th {
+
+body{
+  background-color: #FDFBD4;
+  }
+
+.manufacturing-consent-regular {
+  font-family: "Manufacturing Consent", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 80px;
+  text-align: center;
+  color: #550000;
+  }
+
+td {
 	border: 1px solid;
+  }
+
+  .skinny-bold {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  color: #fdebd4;
   }
   
