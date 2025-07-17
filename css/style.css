@@ -30,7 +30,26 @@ td {
   color: #282822;
   }
 
-  .saturn-color{
+  .border-disappear {
+    border: 0px;
+  }
+
+  .saturn-column {
     background-color: #a8a78d;
   }
+
+  .uranus-column {
+   background-color: #e1eeee; 
+  }
+
+  .venus-column {
+    background-color: #f2ddb1;
+  }
+
+  .mars-column {
+    background-color: #f0e7e7;
+  }
   
+  strong {
+    color: #734128;
+  }
